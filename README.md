@@ -3,7 +3,8 @@
 Portal de jogos de simulação para cursos do Senac Franca. Cada jogo simula o primeiro ano de uma profissão, com decisões, sorteios e a lei do ofício.
 
 - **Um ano de aprendiz** (Programa de Aprendizagem)
-- **Um ano de guia** (Técnico em Guia de Turismo)
+- **Um ano de guia** (Técnico em Guia de Turismo), para qualquer unidade do Senac SP
+- **Um ano de eventos** (Técnico em Eventos)
 
 **Link oficial:** https://jayrodrigues90.github.io/jogos-senac-franca/
 
