@@ -10,7 +10,7 @@ Portal de jogos de simulação para a sala de aula. Cada jogo simula o primeiro 
 - **Um ano de coleções** (Técnico em Produção de Moda)
 - **Um ano pelas áreas da empresa** (Técnico em Administração)
 
-**Link oficial:** https://jayrodrigues90.github.io/jogos-senac-franca/
+**Link oficial:** https://jayrodrigues90.github.io/jogos-de-simulacao/
 
 Autoria: Julio Polo Rodrigues, Franca, SP.
 © 2026. Todos os direitos reservados. Veja o arquivo LICENSE. Use e compartilhe pelo link oficial; cópia, modificação e hospedagem em outro endereço não são autorizadas.
